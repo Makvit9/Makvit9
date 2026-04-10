@@ -9,7 +9,7 @@ System Administrator based in Amman, Jordan. I manage multi-site infrastructure 
 - **Active Directory** — Multi-site DC/ADC topology across two sites, connected via IPsec site-to-site VPN with inter-site replication
 - **Hyper-V** — Multiple production VMs at 99.9% uptime via UPS + dual-ISP failover
 - **Microsoft 365** — Full tenant administration: Exchange Online, SharePoint, Teams, Entra ID, Conditional Access
-- **Networking** — Im expert in configuring core switches, VLANs, 802.1X wireless (via Windows NPS)
+- **Networking** — I've configure core switches, VLANs, implemented 802.1X wireless solution accross different sites
 - **VPN** — IPsec site-to-site + client-to-site for remote access
 - **Docker** — Nginx, N8N (workflow automation)
 - **Asset Management** — Self-hosted Snipe-IT
